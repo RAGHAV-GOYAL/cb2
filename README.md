@@ -1,2 +1,2 @@
-# cb2
-vcs
+# C25 Crumpled balls Project
+
